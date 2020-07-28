@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bicky-jsx/static/css/main.a99220a2.chunk.css",
-    "main.js": "/bicky-jsx/static/js/main.23973a6f.chunk.js",
-    "main.js.map": "/bicky-jsx/static/js/main.23973a6f.chunk.js.map",
+    "main.js": "/bicky-jsx/static/js/main.79d356d8.chunk.js",
+    "main.js.map": "/bicky-jsx/static/js/main.79d356d8.chunk.js.map",
     "runtime-main.js": "/bicky-jsx/static/js/runtime-main.5c83f5c7.js",
     "runtime-main.js.map": "/bicky-jsx/static/js/runtime-main.5c83f5c7.js.map",
     "static/css/2.af3c1da9.chunk.css": "/bicky-jsx/static/css/2.af3c1da9.chunk.css",
     "static/js/2.0771936f.chunk.js": "/bicky-jsx/static/js/2.0771936f.chunk.js",
     "static/js/2.0771936f.chunk.js.map": "/bicky-jsx/static/js/2.0771936f.chunk.js.map",
     "index.html": "/bicky-jsx/index.html",
-    "precache-manifest.f860c16f5cacd6ea3f5192d69659ca3b.js": "/bicky-jsx/precache-manifest.f860c16f5cacd6ea3f5192d69659ca3b.js",
+    "precache-manifest.fca1ecbdddc1feab2914a64f8dc957a6.js": "/bicky-jsx/precache-manifest.fca1ecbdddc1feab2914a64f8dc957a6.js",
     "service-worker.js": "/bicky-jsx/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/bicky-jsx/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.a99220a2.chunk.css.map": "/bicky-jsx/static/css/main.a99220a2.chunk.css.map",
@@ -28,6 +28,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.0771936f.chunk.js",
     "static/css/main.a99220a2.chunk.css",
-    "static/js/main.23973a6f.chunk.js"
+    "static/js/main.79d356d8.chunk.js"
   ]
 }
